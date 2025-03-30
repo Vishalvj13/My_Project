@@ -16,7 +16,8 @@ The **Hospital Management System** is designed following **SOLID design principl
 ## 🛠 Technologies Used
 
 ### 🔹 Frontend
-- **React.js:** User interface development and state management.
+- **React.js:** User interface development.
+- **React Hooks:** State management.
 - **Axios:** HTTP client for API communication.
 
 ### 🔹 Backend
