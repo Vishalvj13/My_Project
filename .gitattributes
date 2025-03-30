@@ -1,4 +1,11 @@
-*.jsx linguist-detectable=true
+*.java linguist-detectable=true
 *.js linguist-detectable=true
+*.jsx linguist-detectable=true
+*.ts linguist-detectable=true
 *.tsx linguist-detectable=true
-Frontend/* linguist-detectable=true
+
+# Ignore build and dependencies folders
+/backend/target/* linguist-vendored
+/frontend/node_modules/* linguist-vendored
+/frontend/build/* linguist-vendored
+
