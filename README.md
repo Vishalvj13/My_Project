@@ -1,6 +1,6 @@
 # 🏥 Hospital Management System
 
-The **Hospital Management System** is designed following **SOLID design principles**, facilitating **efficient hospital operations** and **streamlined communication** among staff. The project consists of a **React.js frontend** and a **Spring Boot backend**, with **MySQL** as the database.
+The **Hospital Management System** is built using **SOLID design principles** to ensure **maintainability, scalability, and clean architecture**. It features a **React.js frontend** for a **responsive UI**, a **Spring Boot backend for robust API development**, and a **MySQL database** for **secure and efficient data management**. The system **streamlines hospital operations** and **enhances communication among healthcare staff**.
 
 ---
 
